@@ -1,0 +1,2 @@
+Chictopia crawled user profile data (separated into 25MB chucks due to file upload size limitations). 
+To execute the dump, execute the single sql files in numerical order.
